@@ -29,5 +29,5 @@ int main(){
          "\\n\\n"
          );
 
-  return 1;
+  return 0;
 }

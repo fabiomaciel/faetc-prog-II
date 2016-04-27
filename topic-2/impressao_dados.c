@@ -11,5 +11,5 @@
 
 int main(){
   printf("UM\n   DOIS\n      TRES\n");
-  return 1;
+  return 0;
 }
